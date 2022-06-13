@@ -2,7 +2,7 @@
 ## I'm a student of systems engineering and freelancer web developer
 ![Logo personal](Logo.jpg)
 ___
-### Studies
+### Studies :books:
 * Electronic technician in automation and process control
 * Third year of systems engineering
 * Autodidact
@@ -11,7 +11,7 @@ ___
 ### What i do
 * Front-end web development
 
-### Technologies
+### Technologies :computer:
 * HTML ![Logo personal](html5-logo-24.png)
 * CSS ![Logo personal](bxl-css3.svg)
 * Bootstrap ![Logo personal](bxl-bootstrap.svg)
