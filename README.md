@@ -1,6 +1,6 @@
 # Hi! My name is **Tomas Izuel**
 ## I'm a student of systems engineering and freelancer web developer
-![Logo personal](Logo.png)
+![Logo personal](Logo.jpg)
 ___
 ### Studies
 * Electronic technician in automation and process control
