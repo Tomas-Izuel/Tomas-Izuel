@@ -1,4 +1,4 @@
-# Hi! My name is **Tomas Izuel**
+# Hi! :hand: My name is **Tomas Izuel**
 ## I'm a student of systems engineering and freelancer web developer
 ![Logo personal](Logo.jpg)
 ___
