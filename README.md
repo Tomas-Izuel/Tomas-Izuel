@@ -12,9 +12,15 @@ ___
 * Front-end web development
 
 ### Technologies :computer:
-* HTML ![Logo personal](html5-logo-24.png)
-* CSS ![Logo personal](bxl-css3.svg)
-* Bootstrap ![Logo personal](bxl-bootstrap.svg)
-* Less/Sass ![Logo personal](bxl-less.svg)
-* JavaScript ![Logo personal](bxl-javascript.svg)
-* ReactJS ![Logo personal](bxl-react.svg)
+* HTML 
+* CSS 
+* Less
+* Layout Responsive
+* JavaScript
+* ReactJS
+* UX/UI
+* NodeJS
+* MySQL
+* Java
+* C++
+* Git
