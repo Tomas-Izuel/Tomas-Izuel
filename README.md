@@ -8,7 +8,7 @@ ___
 * Cyber ​​security research lab
 
 ### What i do
-* Front-end web development
+* Front-End web development
 
 ### Technologies :computer:
 * HTML 
