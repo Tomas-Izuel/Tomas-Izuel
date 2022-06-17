@@ -2,9 +2,9 @@
 ## I'm a student of systems engineering and a freelancer web developer
 ![Logo personal](Logo.jpg)
 ___
-### Studies :books:
-* Electronic technician in automation and process control
-* Third year of systems engineering
+### Academic studies :books:
+* Electronic Technician in Automation and Process Control
+* Third year of Systems Engineering
 * Autodidact
 * Cyber ​​security research lab
 
