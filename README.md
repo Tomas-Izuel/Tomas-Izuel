@@ -1,5 +1,4 @@
-# Hi! :hand: My name is **Tomas Izuel**
-## I'm a student of systems engineering and a freelancer web developer
+# Hi! :hand: My name is **Tomás Izuel**
 ![Logo personal](Logo.jpg)
 ___
 ### Academic studies :books:
