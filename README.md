@@ -13,7 +13,7 @@ ___
 ### Technologies :computer:
 * HTML 
 * CSS 
-* Less
+* Scss
 * Layout Responsive
 * JavaScript
 * ReactJS
