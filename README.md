@@ -1,19 +1,19 @@
 # Hi! :hand: My name is **Tomás Izuel**
-![Logo personal](Logo.jpg)
 ___
 ### Academic studies :books:
 * Electronic Technician in Automation and Process Control
-* Third year of Systems Engineering
+* Fourth year of Systems Engineering
 * Autodidact
 * Cyber ​​security research lab
 
 ### What i do
-* Front-End web development
+* Fullstack web development
 
 ### Technologies :computer:
 * HTML 
 * CSS 
 * Scss
+* Taildwind
 * Layout Responsive
 * JavaScript
 * ReactJS
