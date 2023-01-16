@@ -14,7 +14,7 @@ ___
 * ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 * ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 * ![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&logo=SASS)
-* ![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=Tailwind)
+* ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 * ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 * ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
