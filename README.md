@@ -10,9 +10,9 @@ ___
 * Fullstack web development
 
 ### Technologies :computer:
-* HTML ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-* CSS 
-* Scss
+* ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+* ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+* ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 * Taildwind
 * Layout Responsive
 * JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
