@@ -10,7 +10,7 @@ ___
 * Fullstack web development
 
 ### Technologies :computer:
-* ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+* ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 * ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 * ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 * ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind)
