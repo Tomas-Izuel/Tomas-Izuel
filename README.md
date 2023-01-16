@@ -13,13 +13,12 @@ ___
 * ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 * ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 * ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
-* Taildwind
-* Layout Responsive
-* JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-* ReactJS ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-* UX/UI
-* NodeJS ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-* MySQL ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-* Java ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-* C++ ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-* Git ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+* ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind)
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+* ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+* ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+* ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+* ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
+* ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+* ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+* ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
