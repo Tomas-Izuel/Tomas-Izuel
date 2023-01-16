@@ -8,6 +8,7 @@ ___
 
 ### What i do
 * Fullstack web development
+* UX/UI web design
 
 ### Technologies :computer:
 * ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
