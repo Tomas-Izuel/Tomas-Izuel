@@ -5,6 +5,7 @@ ___
 ### Academic studies :books:
 * Electronic Technician in Automation and Process Control
 * Fourth year of Systems Engineering
+* CoderHouse fullstack course
 * Autodidact
 * Cyber ​​security research lab
 
