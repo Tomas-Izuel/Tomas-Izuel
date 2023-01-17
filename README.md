@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 # Hi! :hand: My name is **Tomás Izuel**
 ___
 ### Academic studies :books:
