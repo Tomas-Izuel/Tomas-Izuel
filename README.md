@@ -20,7 +20,7 @@ ___
 * ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 * ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-* ![Astro]
+* ![Astro](https://img.shields.io/badge/-Astro-222222?style=flat&logo=astro) 
 * ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 * ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 * ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java) 
