@@ -20,9 +20,9 @@ ___
 * ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 * ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+* ![Astro]
 * ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 * ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 * ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java) 
 * ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-* ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
 * ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
